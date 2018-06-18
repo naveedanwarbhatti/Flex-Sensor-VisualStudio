@@ -1,0 +1,26 @@
+C:\Users\lenovo\Desktop\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.exe
+C:\Users\lenovo\Desktop\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.pdb
+C:\Users\lenovo\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.MainForm.resources
+C:\Users\lenovo\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.Properties.Resources.resources
+C:\Users\lenovo\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.exe
+C:\Users\lenovo\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.pdb
+C:\Users\lenovo\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csprojResolveAssemblyReference.cache
+F:\E drive\PhD(CS)\Libelium\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.exe
+F:\E drive\PhD(CS)\Libelium\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.pdb
+F:\E_drive\PhD(CS)\Libelium\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.exe
+F:\E_drive\PhD(CS)\Libelium\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.pdb
+F:\E_drive\PhD(CS)\Libelium\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.exe
+F:\E_drive\PhD(CS)\Libelium\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.pdb
+F:\E_drive\PhD(CS)\Libelium\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.MainForm.resources
+F:\E_drive\PhD(CS)\Libelium\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.Properties.Resources.resources
+F:\E_drive\PhD(CS)\Libelium\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csproj.GenerateResource.Cache
+F:\E_drive\PhD(CS)\Libelium\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csprojResolveAssemblyReference.cache
+F:\E_drive\ERCIM\Flex Sensor\SerialPortListener\obj\x86\Debug\SerialPortListener.exe
+F:\E_drive\ERCIM\Flex Sensor\SerialPortListener\obj\x86\Debug\SerialPortListener.pdb
+F:\E_drive\ERCIM\Flex Sensor\SerialPortListener\bin\Debug\SerialPortListener.exe
+F:\E_drive\ERCIM\Flex Sensor\SerialPortListener\bin\Debug\SerialPortListener.pdb
+F:\E_drive\ERCIM\Flex Sensor\SerialPortListener\obj\x86\Debug\SerialPortListener.csprojResolveAssemblyReference.cache
+F:\E_drive\ERCIM\Flex Sensor\SerialPortListener\obj\x86\Debug\SerialPortListener.MainForm.resources
+F:\E_drive\ERCIM\Flex Sensor\SerialPortListener\obj\x86\Debug\SerialPortListener.Properties.Resources.resources
+F:\E_drive\ERCIM\Flex Sensor\SerialPortListener\obj\x86\Debug\SerialPortListener.csproj.GenerateResource.Cache
